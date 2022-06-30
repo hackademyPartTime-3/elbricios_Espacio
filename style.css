@@ -111,7 +111,7 @@ body{
 }
 .imgfooter{
     background-image: 
-        radial-gradient(ellipse, transparent, black 95%),
+        radial-gradient(ellipse, transparent, black 99%),
         url(./img/footer.jpg);
     background-repeat: no-repeat;
     background-size: cover;
